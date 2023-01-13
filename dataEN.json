@@ -1,0 +1,146 @@
+{
+    "name": "Houssem Mejbri",
+    "landing": {
+        "title": "Hi, I'm Houssem",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Game developer 🎮",
+            "Software engineering student 👨‍🎓",
+            "Just getting started 📈"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "Houssem Mejbri",
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/houssem-mejbri"
+            },
+            {
+                "alt": "github",
+                "icon": "github",
+                "link": "https://github.com/hmejbri"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:hmejbri431@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "JavaScript",
+            "Java",
+            "C",
+            "C++",
+            "Python",
+            "HTML5",
+            "CSS3"
+        ],
+        "Frontend": [
+            "React",
+            "Redux",
+            "Next.js",
+            "Material-UI",
+            "Bootstrap"
+        ],
+        "Backend": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL"
+        ],
+        "Game development": [
+            "Unity",
+            "Csharp"
+        ]
+    },
+    "projects": [
+        {
+            "nom":"Bazz",
+            "url":"",
+            "image":"",
+            "technologies":["Next","Node","Express","PostgreSQL"],
+            "description":"Bazz is a platform that allows sellers to create their online stores and start selling their products."
+        },
+        {
+            "nom":"Resifib",
+            "url":"",
+            "image":"",
+            "technologies":["Next","Node","Express","PostgreSQL"],
+            "description":"Showcase site created on behalf of the company resifib accompanied by a dashboard."
+        },
+        {
+            "nom":"Babynames",
+            "url":"",
+            "image":"",
+            "technologies":["React","Node","Express","MySQL"],
+            "description":"Website created to provide couples who need a name for their baby with a unique name that best matches their names and the names of their previous children."
+        }
+    ],
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": "Société de nutrition animale SNA",
+                "role": "Full Stack Developer",
+                "type": "Internship",
+                "startDate": "2020-07-01",
+                "endDate": "2020-08-01",
+                "city": "Ben arous",
+                "state": "Borj cédria",
+                "country": "Tunisia",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/SNA_logo.jpg"
+            },
+            {
+                "organization": "Clediss",
+                "role": "Full Stack Developer",
+                "type": "Internship",
+                "startDate": "2021-01-01",
+                "endDate": "2021-05-01",
+                "city": "Ariana",
+                "state": "Riadh al andalus",
+                "country": "Tunisia",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/Clediss.jpg"
+            },
+            {
+                "organization": "Sagem",
+                "role": "Ui/ux designer",
+                "type": "Internship",
+                "startDate": "2022-06-01",
+                "endDate": "2022-07-01",
+                "city": "Ben arous",
+                "state": "Borj ghorbel",
+                "country": "Tunisia",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/Sagem.png"
+            }
+        ]
+    },
+    "about": {
+        "description": "I am a web developer, pursuing my degree in Software Engineering from ISIM Sfax. Dynamic, creative and autonomous with a strong ability to work in a team.",
+        "picture": "/profile.JPG",
+        "social": []
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}

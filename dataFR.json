@@ -1,0 +1,146 @@
+{
+    "name": "Houssem Mejbri",
+    "landing": {
+        "title": "Salut, je suis Houssem",
+        "subtitles": [
+            "Développeur full-stack 🌐",
+            "Développeur jeux vidéo 🎮",
+            "Éléve ingénieur 👨‍🎓",
+            "Je viens juste de commencer 📈"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "Houssem Mejbri",
+                "icon": "linkedin",
+                "link": "https://linkedin.com/in/houssem-mejbri"
+            },
+            {
+                "alt": "github",
+                "icon": "github",
+                "link": "https://github.com/hmejbri"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:hmejbri431@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Langages de programmation": [
+            "JavaScript",
+            "Java",
+            "C",
+            "C++",
+            "Python",
+            "HTML5",
+            "CSS3"
+        ],
+        "Frontend": [
+            "React",
+            "Redux",
+            "Next.js",
+            "Material-UI",
+            "Bootstrap"
+        ],
+        "Backend": [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL"
+        ],
+        "Développement jeux vidéo": [
+            "Unity",
+            "Csharp"
+        ]
+    },
+    "projects": [
+        {
+            "nom":"Bazz",
+            "url":"",
+            "image":"",
+            "technologies":["Next","Node","Express","PostgreSQL"],
+            "description":"Bazz est une plateforme qui permet aux vendeurs de créer leurs boutiques en ligne et de commencer à vendre leurs produits."
+        },
+        {
+            "nom":"Resifib",
+            "url":"",
+            "image":"",
+            "technologies":["Next","Node","Express","PostgreSQL"],
+            "description":"Site vitrine créé pour le compte de la société resifib accompagné d'une dashboard."
+        },
+        {
+            "nom":"Babynames",
+            "url":"",
+            "image":"",
+            "technologies":["React","Node","Express","MySQL"],
+            "description":"Site créé pour offrir aux couples qui ont besoin d'un nom pour leur bébé un nom unique qui correspond le mieux à leurs noms et aux noms de leurs enfants précédents."
+        }
+    ],
+    "experience": {
+        "Expérience professionnelle": [
+            {
+                "organization": "Société de nutrition animale SNA",
+                "role": "Développeur full-stack",
+                "type": "Stage",
+                "startDate": "2020-07-01",
+                "endDate": "2020-08-01",
+                "city": "Ben arous",
+                "state": "Borj cédria",
+                "country": "Tunisie",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/SNA_logo.jpg"
+            },
+            {
+                "organization": "Clediss",
+                "role": "Développeur full-stack",
+                "type": "Stage",
+                "startDate": "2021-01-01",
+                "endDate": "2021-05-01",
+                "city": "Ariana",
+                "state": "Riadh al andalus",
+                "country": "Tunisie",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/Clediss.jpg"
+            },
+            {
+                "organization": "Sagem",
+                "role": "Concepteur ui/ux",
+                "type": "Stage",
+                "startDate": "2022-06-01",
+                "endDate": "2022-07-01",
+                "city": "Ben arous",
+                "state": "Borj ghorbel",
+                "country": "Tunisie",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "thumbnail": "/websites/Sagem.png"
+            }
+        ]
+    },
+    "about": {
+        "description": "Je suis un développeur web, poursuivant mes études en ingénierie génie logiciel à l'ISIM Sfax. Dynamique, créatif et autonome avec une forte capacité à travailler en équipe.",
+        "picture": "/profile.JPG",
+        "social": []
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}

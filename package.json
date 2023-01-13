@@ -11,7 +11,11 @@
     "next-pwa": "^5.0.5",
     "prop-types": "latest",
     "react": "latest",
+    "react-cookie": "^4.1.1",
     "react-dom": "latest",
+    "react-flags-select": "^2.2.3",
+    "react-icons": "^4.7.1",
+    "react-languages-select": "^1.0.20",
     "react-typed": "^1.2.0",
     "simple-icons": "^4.11.0",
     "webpack": "^4.46.0"
