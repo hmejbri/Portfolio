@@ -1,7 +1,9 @@
 import {
 	Avatar,
+	Button,
 	Card,
 	CardActionArea,
+	CardActions,
 	CardContent,
 	CardMedia,
 	Fade,
@@ -82,7 +84,11 @@ export default function Projects() {
 				{projets.map((value, i) => (
 					<Grid item sm={6} xs={12} key={i}>
 						<Fade in={animate} style={{ transitionDelay: `${200 * i}ms` }}>
-							<Card key={i} className={classes.card}>
+							<Card
+								key={i}
+								className={classes.card}
+								onClick={() => window.open(value.url, "_blank")}
+							>
 								<CardActionArea>
 									<CardMedia className={classes.media} title={value.nom}>
 										<div
@@ -93,7 +99,7 @@ export default function Projects() {
 											}}
 										>
 											<Image
-												src="/projects.svg"
+												src={value.image ? value.image : "/projects.svg"}
 												layout="fill"
 												objectFit="contain" // or objectFit="cover"
 											/>
@@ -151,6 +157,17 @@ export default function Projects() {
 										</center>
 									</CardContent>
 								</CardActionArea>
+
+								<CardActions>
+									<Button
+										variant="outlined"
+										size="small"
+										color="white"
+										style={{ width: "100%", marginBottom: "-1em" }}
+									>
+										{router.query.language == "FR" ? "Visiter" : "Visit"}
+									</Button>
+								</CardActions>
 							</Card>
 						</Fade>
 					</Grid>

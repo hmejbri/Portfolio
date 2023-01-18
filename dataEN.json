@@ -58,17 +58,17 @@
     "projects": [
         {
             "nom":"Bazz",
-            "url":"",
-            "image":"",
+            "url":"https://bazz.duocrafts.com",
+            "image":"/websites/bazz.png",
             "technologies":["Next","Node","Express","PostgreSQL"],
             "description":"Bazz is a platform that allows sellers to create their online stores and start selling their products."
         },
         {
             "nom":"Resifib",
-            "url":"",
-            "image":"",
+            "url":"https://resifib.duocrafts.com",
+            "image":"/websites/resifib.png",
             "technologies":["Next","Node","Express","PostgreSQL"],
-            "description":"Showcase site created on behalf of the company resifib accompanied by a dashboard."
+            "description":"A showcase website created on behalf of the company resifib accompanied by a dashboard."
         },
         {
             "nom":"Babynames",

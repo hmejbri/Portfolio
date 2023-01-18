@@ -58,15 +58,15 @@
     "projects": [
         {
             "nom":"Bazz",
-            "url":"",
-            "image":"",
+            "url":"https://bazz.duocrafts.com",
+            "image":"/websites/bazz.png",
             "technologies":["Next","Node","Express","PostgreSQL"],
             "description":"Bazz est une plateforme qui permet aux vendeurs de créer leurs boutiques en ligne et de commencer à vendre leurs produits."
         },
         {
             "nom":"Resifib",
-            "url":"",
-            "image":"",
+            "url":"https://resifib.duocrafts.com",
+            "image":"/websites/resifib.png",
             "technologies":["Next","Node","Express","PostgreSQL"],
             "description":"Site vitrine créé pour le compte de la société resifib accompagné d'une dashboard."
         },
