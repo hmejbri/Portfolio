@@ -71,11 +71,11 @@
             "description":"A showcase website created on behalf of the company resifib accompanied by a dashboard."
         },
         {
-            "nom":"Babynames",
-            "url":"",
-            "image":"",
-            "technologies":["React","Node","Express","MySQL"],
-            "description":"Website created to provide couples who need a name for their baby with a unique name that best matches their names and the names of their previous children."
+            "nom":"Submarine explorer",
+            "url":"https://drive.google.com/file/d/1ZkLyXmQ0EY_g82yvOxBmJui26Tnya0fZ/view?usp=sharing",
+            "image":"/websites/submarine.png",
+            "technologies":["Unity","Csharp"],
+            "description":"A VR game in which the player needs to drive a submarine and find treasures."
         }
     ],
     "experience": {
@@ -89,7 +89,7 @@
                 "city": "Ben arous",
                 "state": "Borj cédria",
                 "country": "Tunisia",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "url": "https://www.linkedin.com/company/sna-société-de-nutrition-animale",
                 "thumbnail": "/websites/SNA_logo.jpg"
             },
             {
@@ -101,7 +101,7 @@
                 "city": "Ariana",
                 "state": "Riadh al andalus",
                 "country": "Tunisia",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "url": "https://www.linkedin.com/company/clediss",
                 "thumbnail": "/websites/Clediss.jpg"
             },
             {
@@ -113,8 +113,20 @@
                 "city": "Ben arous",
                 "state": "Borj ghorbel",
                 "country": "Tunisia",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
+                "url": "https://www.linkedin.com/company/sagemcom/",
                 "thumbnail": "/websites/Sagem.png"
+            },
+            {
+                "organization": "Turku AMK",
+                "role": "Lead programmer",
+                "type": "Internship",
+                "startDate": "2023-04-15",
+                "endDate": "2023-10-15",
+                "city": "Tunisia",
+                "state": "Finland",
+                "country": "Germany",
+                "url": "https://www.h-ka.de/die-hochschule-karlsruhe/aktuelles/news/2023/internationaler-workshop-fuer-virtual-und-augmented-reality-technologien?fbclid=IwAR1erPR-pTXUE3PRV6OnyV3QcjdO2SX19wv1QuFuPKrpP6_aLgT3x-3h9iU",
+                "thumbnail": "/websites/turku.png"
             }
         ]
     },
