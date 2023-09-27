@@ -71,11 +71,11 @@
             "description":"Site vitrine créé pour le compte de la société resifib accompagné d'une dashboard."
         },
         {
-            "nom":"Babynames",
-            "url":"",
-            "image":"",
-            "technologies":["React","Node","Express","MySQL"],
-            "description":"Site créé pour offrir aux couples qui ont besoin d'un nom pour leur bébé un nom unique qui correspond le mieux à leurs noms et aux noms de leurs enfants précédents."
+            "nom":"Submarine explorer",
+            "url":"https://drive.google.com/file/d/1ZkLyXmQ0EY_g82yvOxBmJui26Tnya0fZ/view?usp=sharing",
+            "image":"/websites/submarine.png",
+            "technologies":["Unity","Csharp"],
+            "description":"Un jeu VR dans lequel le joueur doit conduire un sous-marin pour trouver des trésors."
         }
     ],
     "experience": {
@@ -115,6 +115,18 @@
                 "country": "Tunisie",
                 "url": "https://www.linkedin.com/company/clouddfn-llp/",
                 "thumbnail": "/websites/Sagem.png"
+            },
+            {
+                "organization": "Turku AMK",
+                "role": "Lead programmer",
+                "type": "Stage",
+                "startDate": "2023-04-15",
+                "endDate": "2023-10-15",
+                "city": "Tunisie",
+                "state": "Finlande",
+                "country": "Allemagne",
+                "url": "https://www.h-ka.de/die-hochschule-karlsruhe/aktuelles/news/2023/internationaler-workshop-fuer-virtual-und-augmented-reality-technologien?fbclid=IwAR1erPR-pTXUE3PRV6OnyV3QcjdO2SX19wv1QuFuPKrpP6_aLgT3x-3h9iU",
+                "thumbnail": "/websites/turku.png"
             }
         ]
     },
